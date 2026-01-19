@@ -3,3 +3,4 @@ pywebview
 openai
 google-genai
 PyMuPDF
+PyYAML
